@@ -10,6 +10,7 @@ import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
 import org.springframework.context.annotation.ComponentScan;
 
+// Test for GIT Commit
 @SpringBootApplication
 @ComponentScan("com.users")
 public class Application extends SpringBootServletInitializer  {
